@@ -1,21 +1,21 @@
 # Garbagerider-ile-for-donguleri
  python ile for döngüleri öğrenmek içindir<br/><br/>
-from js import robot
+`from js import robot`<br/>
 
-for i in range(0,5):
-    robot.move_distance(1)
-robot.rotate_angle(-90)
-robot.move_distance(1)
-robot.rotate_angle(-90)
-for i in range(0,5):
-    robot.move_distance(1)
-robot.rotate_angle(90)
-robot.move_distance(1)
-robot.rotate_angle(90)
-for i in range(0,5):
-    robot.move_distance(1)
-robot.rotate_angle(-90)
-robot.move_distance(1)
-robot.rotate_angle(-90)
-for i in range(0,5):
-    robot.move_distance(1)
+`for i in range(0,5):`<br/>
+    `    robot.move_distance(1)`<br/>
+`robot.rotate_angle(-90)`<br/>
+`robot.move_distance(1)`<br/>
+`robot.rotate_angle(-90)`<br/>
+`for i in range(0,5):`<br/>
+    `    robot.move_distance(1)`<br/>
+`robot.rotate_angle(90)`<br/>
+`robot.move_distance(1)`<br/>
+`robot.rotate_angle(90)`<br/>
+`for i in range(0,5):`<br/>
+    `    robot.move_distance(1)`<br/>
+`robot.rotate_angle(-90)`<br/>
+`robot.move_distance(1)`<br/>
+`robot.rotate_angle(-90)`<br/>
+`for i in range(0,5):`<br/>
+    `    robot.move_distance(1)`<br/>
